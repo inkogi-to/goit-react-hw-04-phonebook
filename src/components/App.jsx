@@ -10,7 +10,6 @@ import Contacts from "./Contacts"
 import Filter from "./Filter";
 
 import data from "./data/contacts.json";
-import contacts from "./Contacts";
 
 
 function App() {
